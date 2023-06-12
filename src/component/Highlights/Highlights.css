@@ -1,0 +1,162 @@
+.tabs {
+    width: 100%;
+    margin: 1vmax 0;
+}
+
+.tabs>ul {
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    margin: auto;
+
+}
+
+.tabs>ul>li {
+    display: block;
+    /* width: 1vmax; */
+    margin: .5vmax;
+    padding: 1vmax;
+    font-size: 1vmax;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.tabs>ul>li:hover {
+    cursor: pointer;
+    border-bottom: 1px solid tomato;
+    color: tomato;
+}
+
+
+
+#cotainer {
+    width: 100%;
+    display: flex;
+
+    /* justify-content: space-between; */
+}
+
+#cotainer .leftImg {
+    width: 50vw;
+    /* border: 1px solid red; */
+    text-align: center;
+
+}
+
+#cotainer .leftImg>img {
+    /* width: 100%; */
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    margin: 0.5vmax;
+    transition: all 0.5s;
+}
+
+#cotainer .leftImg>img:hover {
+    cursor: pointer;
+    transform: translateY(-5px);
+    box-shadow: 3px 3px 5px rgba(77, 73, 73, 0.445);
+}
+
+#cotainer .rightImg {
+    /* border: 1px solid blue; */
+
+    width: 50vw;
+}
+
+.rightImg .rightCard {
+    /* display: inline-block; */
+    /* border: 1px solid rgb(236, 2, 119); */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.rightCard figure {
+    /* border: 1px solid darkred; */
+    position: relative;
+    transition: all 0.5s;
+    width: 48%;
+    margin: 0.3vmax;
+    border-radius: 5px;
+}
+
+.rightCard figure:hover {
+    cursor: pointer;
+    transform: translateY(-5px);
+    box-shadow: 3px 3px 5px rgba(77, 73, 73, 0.445);
+}
+
+.rightCard figure>img {
+    /* width: 100%; */
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.rightCard figcaption {
+    position: absolute;
+    bottom: 10%;
+    left: 30%;
+
+    line-height: 1vmax;
+}
+
+.rightCard figcaption>p {
+    font-size: 1.5vmax;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.rightCard figcaption>span {
+    font-size: 1vmax;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+@media screen and (max-width:765px) {
+
+    #cotainer {
+        width: 100%;
+        display: block;
+    }
+
+    #cotainer .leftImg {
+        width: 90%;
+        margin: auto;
+
+    }
+
+    #cotainer .rightImg {
+       
+        margin: auto;
+        width: 90%;
+    }
+
+    .tabs>ul>li {
+        font-size: 1.7vmax;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin: .2vmax;
+        padding: .8vmax;
+    }
+
+}
+@media screen and (max-width:1250px) {
+    .tabs>ul>li {
+        font-size: 2vmax;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin: .2vmax;
+        padding: .8vmax;
+    }
+
+}

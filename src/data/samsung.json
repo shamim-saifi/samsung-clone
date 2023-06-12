@@ -1,0 +1,272 @@
+{
+    "logo": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/gnb-desktop-120x32.png",
+    
+    "video":[
+        {
+            "image": "https://images.samsung.com/is/content/samsung/assets/in/home/01-hd01-DM-Series-kv-pc-1440x640.mp4",
+            "name": "Galaxy S23 Series",
+            "span": "Own Epic now at just ₹ 3125*/ month<br>Avail benefits up to ₹ 18000"
+        }
+     
+    ],
+ 
+    "slider": [
+
+      
+        {
+            "image": "https://images.samsung.com/is/image/samsung/assets/in/home/Neo-QLED-4K-1440x640-11.jpg?imwidth=1536",
+            "name": "Neo QLED 8K",
+            "span": "Starting ₹ 14909.15*/ month  Get up to ₹ 9800* off with exchange benefit  "
+        },
+        {
+            "image": "https://images.samsung.com/is/image/samsung/assets/in/home/HKV_1440x640.jpg?imwidth=1536",
+            "name": "Discover the all new Bespoke Refrigerator range",
+            "span": "Starting ₹ 14909.15*/ month  Get up to ₹ 9800* off with exchange benefit  "
+        },
+        {
+            "image": "https://images.samsung.com/is/image/samsung/assets/in/home/15116_A34_A54_5G-LC_1440x640.jpg?imwidth=1536",
+            "name": "Galaxy A34 | A54 5G",
+            "span": "Starting ₹ 26999*  "
+        }
+    ],
+    "HighlightsTab":[
+        {
+            "title1":"NewIn",
+            "title2":"Mobile",
+            "title3":"tv",
+            "title4":"Appliances",
+            "title5":"GalaxyEcosystem"
+            
+
+        }
+    ],
+
+    "Highlights": {
+        "LeftCover":[
+            {
+                
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/15265_The-Freestyle-Live_684x684.jpg?$684_684_JPG$",
+                "span":"Benefit Up to 8000",
+                "name":"The FreeStyle"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/S23-Ultra_Exclusive_Big_Tile_684x684_without.jpg?$684_684_JPG$",
+                "name":"Galaxy S23 Ultra",
+                "span":"Starting ₹ 49590"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/4K-UHD-AUE-60-684x684.jpg?$684_684_JPG$",
+                "name":"4K UHD AUE65",
+                "span":"Starting ₹ 85590"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/SBS_RS76_684x6841.jpg?$684_684_JPG$",
+                "name":"SBS Refrigerator",
+                "span":"Starting ₹ 14999"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/GB3_big-tile_684x6841.jpg?$LazyLoad_Home_JPG$",
+                "name":"Galaxy Book",
+                "span":"Starting ₹ 39590"
+            }
+        ],
+        "NewIn":[
+         
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/Small_Tile_330x3301.jpg?$330_330_JPG$",
+                "span":"Starting ₹ 26999",
+                "name":"Galaxy F14 5G"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/Small_Tile_296x352.jpg?$330_330_JPG$",
+                "span":"Starting ₹ 26999",
+                "name":"Galaxy A34 5G"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_4K_UHD_AUE60_AUE65.jpg?$330_330_JPG$",
+                "span":"Starting ₹ 29590",
+                "name":"4K UHD AUE65"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330-4.jpg?$330_330_JPG$",
+                "span":"Starting ₹ 85590",
+                "name":"New SBS Refrigerator"
+            }
+        ],
+        "Mobile":[
+          
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/11186_F23_Banner_330x3303.jpg?$330_330_JPG$",
+                "name":"Galaxy M04 5G",
+                "span":"Starting ₹ 7959"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/S22-330x330.jpg?$330_330_JPG$",
+                "name":"Galaxy F04 5G",
+                "span":"Starting ₹ 7699"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/M04-128GB_SmallTiles_330x330.jpg?$330_330_JPG$",
+                "name":"Galaxy F23 5G",
+                "span":"Starting ₹ 14999"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/F04-330X330-small-tile.jpg?$330_330_JPG$",
+                "name":"Galaxy S22 Ultra",
+                "span":"Starting ₹ 49590"
+            }
+        ],
+        "tv":[
+           
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_Neo_QLED_8K.jpg?$330_330_JPG$",
+                "name":"Nos 8K",
+                "span":"Starting ₹ 14999"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_4K_UHD_BU8000.jpg?$330_330_JPG$",
+                "name":"4K 58AUE70",
+                "span":"Starting ₹ 14999"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_The_Frame.jpg?$330_330_JPG$",
+                "name":"The Frame",
+                "span":"Starting ₹ 5699"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_M81.jpg?$330_330_JPG$",
+                "name":"M8 UHD",
+                "span":"Starting ₹ 44699"
+            }
+        ],
+        "Appliances":[
+          
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_Windfree.jpg?$330_330_JPG$",
+                "name":"windFree split AC",
+                "span":"Starting ₹ 7699"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_Twin_Cooling_Plus.jpg?$330_330_JPG$",
+                "name":"Twin colling Plus",
+                "span":"Starting ₹ 39590"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/330x330_AI_Ecobubble.jpg?$330_330_JPG$",
+                "name":"8.0kg AI Ecobubble",
+                "span":"Starting ₹ 32590"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/SmallTile_330x330.jpg?$LazyLoad_Home_JPG$",
+                "name":"jet bot+ vacuum cleaner",
+                "span":"Starting ₹ 49590"
+            }
+        ],
+        "GalaxyEcosystem":[
+          
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/Odyssey_330x330.jpg?$LazyLoad_Home_JPG$",
+                "name":"odyssey G8",
+                "span":"Starting ₹ 14999"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/Tab-A8_Smalltile_160X1601.png?$LazyLoad_Home_PNG$",
+                "name":"Galaxy tab A8",
+                "span":"Starting ₹ 7699"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/0216/new1-Watch4_330x330.jpg?$LazyLoad_Home_JPG$",
+                "name":"Galaxy watch",
+                "span":"Starting ₹ 11699"
+            },
+            {
+                "image":"https://images.samsung.com/is/image/samsung/assets/in/home/buds2pro-small-size-330x330.jpg?$LazyLoad_Home_JPG$",
+                "name":"Galaxy Buds pro",
+                "span":"Starting ₹ 14999"
+            }
+        ]
+
+    },
+    "clickSlideFirst":[
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/1440x8103.jpg?$1440_810_JPG$",
+            "name":"Galaxy S23 Ultra",
+            "span":"Starting ₹ 26999"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/ProductMarketing_1440x810-1.jpg?$1440_810_JPG$",
+            "name":"Galaxy F14 5G",
+            "span":"Starting ₹ 32590"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/Tab-S8-1440x810.jpg?$1440_810_JPG$",
+            "name":"Galaxy Book",
+            "span":"Starting ₹ 49590"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/1440x8104.jpg?$1440_810_JPG$",
+            "name":"Galaxy S23 Ultra",
+            "span":"Starting ₹ 5699"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/Watch5_5Pro-23.jpg?$1440_810_JPG$",
+            "name":"Galaxy watch",
+            "span":"Starting ₹ 14999"
+        }
+    ],
+    "clickSlide2":[
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/pd-mkt-updates/Neo_QLED_8K_1440x8101.jpg?$1440_810_JPG$",
+            "name":"Neo QLED 8K",
+            "span":"Starting ₹ 7959"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/Qled-4K_1440x8101.jpg?$1440_810_JPG$",
+            "name":"QLED 4K",
+            "span":"Starting ₹ 44699"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/pm_4K-UHD-AUE-60-11.jpg?$1440_810_JPG$",
+            "name":"crystal UHD AUE 60",
+            "span":"Starting ₹ 26999"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/0216/The_frame_Product-Marketing-Banner_1440x810.jpg?$1440_810_JPG$",
+            "name":"The Frame",
+            "span":"Starting ₹ 5699"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/0216/The-freestyle-Product-Marketing-Banner_1440x810.jpg?$1440_810_JPG$",
+            "name":"The FreeStyle",
+            "span":"Starting ₹ 49590"
+        }
+    ],
+    "clickSlide3":[
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/Convertible-AC_PM_1440x810.jpg?$1440_810_JPG$",
+            "name":"Convertible 4in1 AC",
+            "span":"Starting ₹ 22699"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/RS72R5011SL-Product-Marketing-Banner_1440x8101.jpg?$1440_810_JPG$",
+            "name":"New Bespoke Refrigerator",
+            "span":"Starting ₹ 26999"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/AI-ecobubble-Product-Marketing-Banner_1440x810.jpg?$1440_810_JPG$",
+            "name":"AI Ecobubble",
+            "span":"Starting ₹ 32590"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/1440x8101.jpg?$1440_810_JPG$",
+            "name":"Twin colling Plus",
+            "span":"Starting ₹ 26999"
+        },
+        {
+            "image":"https://images.samsung.com/is/image/samsung/assets/in/home/1440x8105.jpg?$1440_810_JPG$",
+            "name":"jet bot+ vacuum cleaner",
+            "span":"Starting ₹ 74699"
+        }
+    ]
+
+}

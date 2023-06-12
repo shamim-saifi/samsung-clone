@@ -1,0 +1,29 @@
+
+.slider{
+    display: block;
+}
+.slider>img {
+    
+    display: block;
+    width: 100vw;
+   
+}
+
+.slider >p{
+    text-align: center;
+    position: absolute;
+    bottom: 5vmax;
+    left: 30vmax;
+    font-size: 2.5vmax;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.slider>span{
+    
+    position: absolute;
+    bottom: 4vmax;
+    left: 30vmax;
+    font-size: 1vmax;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}

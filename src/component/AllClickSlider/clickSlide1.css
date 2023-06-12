@@ -1,0 +1,89 @@
+#clickContainer {
+    height: 100%;
+    width: 100%;
+    border: 1px solid red;
+    margin-top: 1vmax;
+    position: relative;
+}
+
+#clickContainer>ul {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    width: 100%;
+    margin: 1px auto;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+#clickContainer>ul>li {
+    /* border: 1px solid blue; */
+    font-size: 1.2vmax;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 1vmax;
+    padding: .2vmax;
+    display: block;
+    width: 10vmax;
+    color: black;
+}
+
+#clickContainer>ul>li:hover {
+    cursor: pointer;
+    color: tomato;
+    border-bottom: 1px solid tomato;
+}
+
+
+#clickSlideImg {
+    width: 100%;
+    height: 100%;
+
+}
+
+#clickSlideImg .InnerSlide {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#clickSlideImg .InnerSlide>img {
+    width: 100%;
+}
+
+#clickSlideImg .InnerSlide .InnerSlideText {
+    border: 1px solid yellow;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 5vmax;
+   
+}
+
+.InnerSlide .InnerSlideText>p {
+    font-size: 3vmax;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+
+.InnerSlide .InnerSlideText>span {
+    font-size: 1.5vmax;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+
+
+@media screen and (max-width:750px) {
+    #clickSlideImg .InnerSlide .InnerSlideText{
+        line-height: 1vmax;
+    }
+   
+    
+}

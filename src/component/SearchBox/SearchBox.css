@@ -1,0 +1,69 @@
+#search {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#search>button {
+    border: 1px solid rgb(58, 56, 56);
+    border-right: none;
+    border-radius: 20px 0 0 20px;
+    text-align: center;
+    font-size: 2vmax;
+    width: 4vmax;
+    text-align: center;
+    padding: .3vmax 0;
+    background-color: rgba(219, 215, 215, 0.425);
+}
+
+#search>input {
+    border: 1px solid rgb(58, 56, 56);
+    background-color: rgba(219, 215, 215, 0.425);
+    border-left: none;
+    width: 30%;
+    outline: none;
+    padding: .9vmax 1vmax;
+    border-radius: 0 20px 20px 0;
+    font-size: 1.2vmax;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#starText {
+
+    font-size: .8vmax;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 3vmax auto;
+}
+@media screen and (max-width:400px) {
+    #search>input{
+        width: 80%;
+    }
+}
+@media screen and (min-width:401px) and (max-width:750px) {
+    #starText {
+        font-size: 1.5vmax;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 90%;
+        margin: 3vmax .5vmax;
+    }
+
+    #search>input{
+        width: 50%;
+    }
+  
+}
+
+@media screen and (max-width:1250px) and (min-width:751px) {
+    #starText {
+        font-size: 1.2vmax;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 90%;
+        margin: 3vmax .5vmax;
+
+    }
+}
