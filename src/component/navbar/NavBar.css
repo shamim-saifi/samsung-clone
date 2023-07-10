@@ -1,6 +1,7 @@
 .navbar {
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 100%;
     background-color: white;
 }
@@ -42,6 +43,23 @@
     color: white;
 }
 
+.navbar>a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    padding: .7vmax;
+    font: 900 1.2vmax;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: all 0.5s;
+    border-radius: 2vmax;
+    background-color: black;
+    color: white;
+    transition: all .5s;
+}
+.navbar>a:hover{
+    color: white;
+    transform: scale(1.1)
+}
 
 .navbar .right {
     width: 40%;
@@ -97,8 +115,15 @@
     .navbar .left .menuItem {
         display: none;
     }
+    .navbar .left {
+        width: 10vmax;
+    }
+    .navbar{
+        justify-content: flex-start;
+    }
 
     .right .rightMenu {
         display: none;
     }
+   
 }

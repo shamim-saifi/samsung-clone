@@ -163,6 +163,7 @@ const Footer = () => {
             </div>
 
             <div id="foot-2">
+                <p>Created By Shamim Saifi</p>
                 <p>Copyright ⓒ 1995-2023 SAMSUNG All Rights reserved.</p>
 
                 <p>Please dispose of e-waste and plastic waste responsibly.<br />

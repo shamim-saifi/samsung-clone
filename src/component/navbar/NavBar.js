@@ -4,6 +4,7 @@ import "./NavBar.css";
 import { FiSearch } from "react-icons/fi";
 import { BsCart2 } from "react-icons/bs";
 import { CgProfile } from "react-icons/cg";
+import { GiClick } from "react-icons/gi";
 
 const NavBar = ({ logo }) => {
     return (
@@ -17,9 +18,10 @@ const NavBar = ({ logo }) => {
                         <a href="#" >RV & AV</a>
                         <a href="#" >Home Appliances</a>
                         <a href="#" >IT</a>
-                        <a href="#" >SmartThings</a>
+                      
                     </div>
                 </div>
+                <a href="https://new-vercel-port-one.vercel.app" target="blank"> Shamim Admin</a>
                 <div className="right">
                     <div className="rightMenu">
                         <a href="#" >Support</a>
