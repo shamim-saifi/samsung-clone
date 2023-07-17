@@ -21,7 +21,7 @@ const NavBar = ({ logo }) => {
                       
                     </div>
                 </div>
-                <a href="https://new-vercel-port-one.vercel.app" target="blank"> Shamim Admin</a>
+                <a href="https://shamim-saifi.vercel.app" target="blank"> Shamim Admin</a>
                 <div className="right">
                     <div className="rightMenu">
                         <a href="#" >Support</a>
